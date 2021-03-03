@@ -56,6 +56,9 @@ $ python dem.py
 ```
 
 ### Expected result
-![test image size](../img/dem.png)
 
+Below is a snapshot pf the obtained result:
+<p align="center">
+  <img src="img/dem.png" width="500" title="Digital Elevation Map">
+</p>
 
