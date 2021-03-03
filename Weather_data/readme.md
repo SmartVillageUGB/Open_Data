@@ -2,6 +2,12 @@
 
 This dataset was collected as part of an experiment conducted by Wazihub using low-cost internet of things (IoT) sensors over 4 months in 4 fields growing maize and peanuts in Senegal.
 
+<p align="center">
+  <img src="img/weatherstation.png" width="350" title="The Weather station collectig the data">
+  <img src="img/plots" width="350" alt="Plots of the experiment">
+</p>
+
+
 An IoT sensor was placed in four distinct plots of land that were planted with either maize or peanuts (the same amount of maize is sown in each maize plot, and the same for peanuts). Plots are right next to each other, separated by a one meter perimeter.
 
 ## Irrigation schedule
