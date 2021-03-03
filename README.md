@@ -1,9 +1,16 @@
 # Air quality data
 
+<p align="center">
+  <img src="images/aq.jpg" width="200" title="Air quality coverage around the world">
+</p>
 
 These data are extracted from different sensors deployed outside UGB. The referenced sensors are pictured below.
-![](images/novapm.png)
-![](images/purpleair.png)
+
+<p align="center">
+  <img src="images/novapm.jpg" width="200" title="Nova PM Sensor">
+  <img src="images/purpleair.jpg" width="200" alt="Purple Air Sensor">
+</p>
+
 
 Below are the supported parameters :
 - \>=0.3um/dl
