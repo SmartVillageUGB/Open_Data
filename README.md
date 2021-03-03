@@ -8,7 +8,7 @@ The SMart village is an open IoT infrastrcuture comprised of gateways, devices a
 The infrastructure is ready to freely support different applications.
 
 <p align="center">
-  <img src="images/svll2.png" width="500" title="Smart Village Group photo .">
+  <img src="images/svll2.png" width="700" title="Smart Village Group photo .">
 </p>
 
 
