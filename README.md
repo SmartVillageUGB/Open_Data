@@ -1,7 +1,12 @@
-# Air quality data
+# Open data
+## Air quality
+#### Date from: 20-01-01
+#### Date to: 21-03-02
+Air quality is one of the MVP supported by the Smart village Living Lab in Saint-Louis. This is part of the environmental data collection program initiated together with scientific partners working on climatic change and control. 
+
 
 <p align="center">
-  <img src="images/aq.jpg" width="200" title="Air quality coverage around the world">
+  <img src="images/aq.jpg" width="1000" title="Air quality coverage around the world">
 </p>
 
 These data are extracted from different sensors deployed outside UGB. The referenced sensors are pictured below.
@@ -11,7 +16,7 @@ These data are extracted from different sensors deployed outside UGB. The refere
   <img src="images/purpleair.jpg" width="200" alt="Purple Air Sensor">
 </p>
 
-
+## Parameters
 Below are the supported parameters :
 - \>=0.3um/dl
 - \>=0.5um/dl
@@ -31,3 +36,6 @@ Below are the supported parameters :
 - ADC
 - Pressure_hpa
 - IAQ
+
+
+These data has been published under the Open data initiative from the Smart Village Living Lab, in the context of the Wazihub project (www.wazihub.com), partenered with Sonatel, Orange, and University Gaston Berger of Saint-Louis.
