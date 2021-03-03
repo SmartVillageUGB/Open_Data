@@ -5,7 +5,7 @@ Air quality is one of the supported application by the Smart village Living Lab 
 
 
 <p align="center">
-  <img src="../images/aq.jpg" width="1000" title="Air quality coverage around the world">
+  <img src="../images/aq.jpg" width="700" title="Air quality coverage around the world">
 </p>
 
 These data are extracted from different sensors deployed outside UGB. The referenced sensors are pictured below.
