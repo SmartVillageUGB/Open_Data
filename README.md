@@ -1,7 +1,6 @@
 # Open data
 ## Air quality
-Date from: 20-01-01\
-Date to: 21-03-02\
+
 Air quality is one of the MVP supported by the Smart village Living Lab in Saint-Louis. This is part of the environmental data collection program initiated together with scientific partners working on climatic change and control. 
 
 
