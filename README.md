@@ -2,8 +2,8 @@
 
 
 These data are extracted from different sensors deployed outside UGB. The referenced sensors are pictured below.
-![](novapm.png)
-![](purpleair.png)
+![](images/novapm.png)
+![](images/purpleair.png)
 
 Below are the supported parameters :
 - >=0.3um/dl
