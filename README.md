@@ -15,6 +15,9 @@ These data are extracted from different sensors deployed outside UGB. The refere
   <img src="images/purpleair.jpg" width="200" alt="Purple Air Sensor">
 </p>
 
+The first one is the Nova PM sensor which provides PM2.5 and PM10 rela time values. This sensor relaesed recently, helps widely in capturing particles ubiquitously at very low cost and acceptable power consumption.\
+The second one is the purple air sensor, which has been deployed first, and which values are used to compare and validate effectiveness of our hand-made devices based on PM sensor. Different set of particles information are provided and precision is high enough to support several applications.
+
 ## Data coverage
 Date from: 20-01-01\
 Date to: 21-03-02
