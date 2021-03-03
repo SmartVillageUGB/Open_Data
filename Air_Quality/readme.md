@@ -5,14 +5,14 @@ Air quality is one of the supported application by the Smart village Living Lab 
 
 
 <p align="center">
-  <img src="images/aq.jpg" width="1000" title="Air quality coverage around the world">
+  <img src="../images/aq.jpg" width="1000" title="Air quality coverage around the world">
 </p>
 
 These data are extracted from different sensors deployed outside UGB. The referenced sensors are pictured below.
 
 <p align="center">
-  <img src="images/novapm.jpg" width="200" title="Nova PM Sensor">
-  <img src="images/purpleair.jpg" width="200" alt="Purple Air Sensor">
+  <img src="../images/novapm.jpg" width="200" title="Nova PM Sensor">
+  <img src="../images/purpleair.jpg" width="200" alt="Purple Air Sensor">
 </p>
 
 The first one is the Nova PM sensor which provides PM2.5 and PM10 rela time values. This sensor relaesed recently, helps widely in capturing particles ubiquitously at very low cost and acceptable power consumption.\
