@@ -6,7 +6,7 @@ These data are extracted from different sensors deployed outside UGB. The refere
 ![](images/purpleair.png)
 
 Below are the supported parameters :
-- >=0.3um/dl
+- \>=0.3um/dl
 - >=0.5um/dl
 - >1.0um/dl
 - >=2.5um/dl
