@@ -1,6 +1,6 @@
 # Smart villlage - open data
 <p align="center">
-  <img src="svll1" width="500" title="Smart Village Meeting !">
+  <img src="images/svll1" width="500" title="Smart Village Meeting !">
 </p>
 
 This git presents several data extracted frm different sources: sensors, IoT devices, satelites, open data, etc.
@@ -8,7 +8,7 @@ The SMart village is an open IoT infrastrcuture comprised of gateways, devices a
 The infrastructure is ready to freely support different applications.
 
 <p align="center">
-  <img src="svll2" width="500" title="Smart Village Group photo .">
+  <img src="images/svll2" width="500" title="Smart Village Group photo .">
 </p>
 
 
