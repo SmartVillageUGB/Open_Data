@@ -1,7 +1,7 @@
 # Open data
 ## Air quality
-#### Date from: 20-01-01
-#### Date to: 21-03-02
+Date from: 20-01-01\
+Date to: 21-03-02\
 Air quality is one of the MVP supported by the Smart village Living Lab in Saint-Louis. This is part of the environmental data collection program initiated together with scientific partners working on climatic change and control. 
 
 
@@ -15,6 +15,10 @@ These data are extracted from different sensors deployed outside UGB. The refere
   <img src="images/novapm.jpg" width="200" title="Nova PM Sensor">
   <img src="images/purpleair.jpg" width="200" alt="Purple Air Sensor">
 </p>
+
+## Data coverage
+Date from: 20-01-01\
+Date to: 21-03-02
 
 ## Parameters
 Below are the supported parameters :
