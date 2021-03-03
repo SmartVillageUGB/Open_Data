@@ -3,7 +3,7 @@
 This dataset was collected as part of an experiment conducted by Wazihub using low-cost internet of things (IoT) sensors over 4 months in 4 fields growing maize and peanuts in Senegal.
 
 <p align="center">
-  <img src="img/WS" width="350" alt="Plots of the experiment">
+  <img src="img/WS.png" width="350" alt="Plots of the experiment">
 </p>
 
 
