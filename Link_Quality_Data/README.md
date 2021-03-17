@@ -1,7 +1,7 @@
 # Open data
 ## LoRa link quality
 
-A (LoRa) network link quality can be assessed througth two main metrics:  the SNR and the RSSI. 
+A (LoRa) network link quality can be assessed through two main metrics:  the SNR and the RSSI. The two datasets contain SNR and RSSI measurements collected in various distances in different environments. The [first dataset](csv/snr_rssi_gps_data.csv)
 
 ## Data coverage
 Date from: 20-08-20\
